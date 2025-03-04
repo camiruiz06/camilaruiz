@@ -1,0 +1,13 @@
+body{
+    background-color: #4144da;
+    front-family: Arial, sans-serif;
+    text-aling: center;
+}
+h1 {
+    color:blue;
+}
+/* Este es un comentario en CSS */
+p {
+    front-size: 18px;
+    color: gray;
+}

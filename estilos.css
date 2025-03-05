@@ -4,10 +4,10 @@ body{
     text-aling: center;
 }
 h1 {
-    color:blue;
+    color:rgb(0, 255, 191);
 }
 /* Este es un comentario en CSS */
 p {
     front-size: 18px;
-    color: gray;
+    color: rgb(128, 128, 128);
 }
